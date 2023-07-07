@@ -1,4 +1,4 @@
-<h3 align="center">A nerd developer who likes to have a deep uderstanding about everything</h3>
+<h3 align="center">A nerd developer who likes to have a deep understanding of everything</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william64644&label=Profile%20views&color=0e75b6&style=flat" alt="william64644" /> </p>
 
