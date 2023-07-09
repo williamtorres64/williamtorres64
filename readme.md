@@ -20,7 +20,7 @@
         <img src="icons/unityhub2.svg" alt="python" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="icons/github-desktop.svg" alt="python" width="40" height="40" />
+        <img src="icons/git.svg" alt="python" width="40" height="40" />
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="icons/supertux2.svg" alt="python" width="40" height="40" />
