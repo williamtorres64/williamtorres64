@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william64644&label=Profile%20views&color=0e75b6&style=flat" alt="william64644" /> </p>
 
-- 🔭 I’m currently working on [my own A.I. Framework](https://github.com/william64644/neural-network-framework)
+- 🔭 I’m currently working on [my own A.I. library](https://github.com/william64644/neural-network-framework)
 
 - 🌱 I’m currently learning **C++ && Blender**
 
