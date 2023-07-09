@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="4.608pt"
+    height="4.608pt"
+    viewBox="0 0 4.608 4.608">
+<defs>
+  <linearGradient id="gradient0" gradientUnits="objectBoundingBox" x1="0.0130048215391584" y1="0.238190771709633" x2="0.989738362516941" y2="0.774513752786519" spreadMethod="pad">
+   <stop stop-color="#0072ff" offset="0" stop-opacity="1"/>
+   <stop stop-color="#43e97b" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient1" gradientTransform="matrix(0.25328 0 0 0.25328 -0.315065193249864 9.3567325078242)" gradientUnits="objectBoundingBox" x1="0.912901469787697" y1="-31.4446863518847" x2="5.93698965704954" y2="-36.3507960266704" spreadMethod="pad">
+   <stop stop-color="#1d75d6" offset="0" stop-opacity="1"/>
+   <stop stop-color="#1ac2ce" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient2" gradientTransform="matrix(0.25328 0 0 0.25328 -0.546458965704954 9.12712021774632)" gradientUnits="objectBoundingBox" x1="5.71026129559064" y1="-36.7152966793684" x2="0.544910179640719" y2="-31.6678007621121" spreadMethod="pad">
+   <stop stop-color="#f3eb24" offset="0" stop-opacity="1"/>
+   <stop stop-color="#f3a324" offset="1" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+<path id="shape0" transform="matrix(0.272131332094809 0 0 0.272131332094809 0.207535111092737 0.207704702565718)" fill="none" stroke="url(#gradient0)" stroke-width="1.454" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="2" d="M13.1484 13.1477C11.886 14.4118 10.2223 15.198 8.4442 15.3707C6.66611 15.5434 4.88218 15.092 3.40019 14.0945C1.91821 13.0969 0.828599 11.614 0.319365 9.90168C-0.189869 8.18934 -0.0876548 6.35203 0.608371 4.70675M2.25837 2.25975C3.52072 0.995319 5.18464 0.208851 6.96297 0.036075C8.7413 -0.136701 10.5255 0.31476 12.0076 1.31254C13.4898 2.31033 14.5794 3.79353 15.0884 5.50619C15.5975 7.21884 15.4949 9.0564 14.7984 10.7017" sodipodi:nodetypes="cccccccccc"/><path id="shape1" transform="matrix(0.302000467105535 4.33680868994202e-19 -4.33680868994202e-19 0.302000467105535 0.850504113056547 0.85057978733738)" fill="url(#gradient1)" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M4.496 0C3.266 0 2.265 0.74 2.276 1.586C2.289 2.083 2.464 2.043 4.81 2.053C5.067 2.043 5.073 2.293 4.81 2.277L1.585 2.277C0.708 2.277 0 3.267 0 4.496L0 5.13C0 6.358 0.707 7.349 1.586 7.349L7.348 7.349L7.348 1.586C7.348 0.708 6.358 0.001 5.129 0.001ZM3.793 0.623C3.89034 0.623 3.98522 0.653829 4.06397 0.711043C4.14272 0.768257 4.20136 0.848969 4.23144 0.941543C4.26152 1.03412 4.26152 1.13388 4.23144 1.22646C4.20136 1.31903 4.14272 1.39974 4.06397 1.45696C3.98522 1.51417 3.89034 1.545 3.793 1.545C3.67078 1.545 3.55344 1.4964 3.46702 1.40998C3.3806 1.32356 3.332 1.20622 3.332 1.084C3.332 0.961782 3.3806 0.844445 3.46702 0.758024C3.55344 0.671603 3.67078 0.623 3.793 0.623Z" sodipodi:nodetypes="cccccccccccccccccccccc"/><path id="shape2" transform="matrix(0.302000467105535 4.33680868994202e-19 -4.33680868994202e-19 0.302000467105535 1.53815917665585 1.53672484860112)" fill="url(#gradient2)" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M5.071 5.68434e-14L5.071 1.268C5.071 1.97 4.505 2.535 3.803 2.535L1.268 2.535C1.268 2.535 0 2.535 0 3.805L0 5.763C0 6.641 0.99 7.348 2.219 7.348L2.852 7.348C4.082 7.348 5.072 6.644 5.072 5.763C5.072 5.235 4.96 5.347 2.43 5.352C2.198 5.35 2.193 5.077 2.431 5.072L5.763 5.072C6.64 5.072 7.348 4.082 7.348 2.852L7.348 2.218C7.348 0.99 6.641 0 5.762 0ZM3.471 5.739C3.57438 5.73426 3.67654 5.76336 3.7619 5.82186C3.84727 5.88036 3.91127 5.96514 3.94415 6.06326C3.97703 6.16139 3.97703 6.26761 3.94415 6.36574C3.91127 6.46386 3.84727 6.54864 3.7619 6.60714C3.67654 6.66564 3.57438 6.69474 3.471 6.69C3.3487 6.68439 3.23316 6.63181 3.1486 6.54328C3.06404 6.45475 3.01681 6.33693 3.01681 6.2145C3.01681 6.09207 3.06404 5.97425 3.1486 5.88572C3.23316 5.79719 3.3487 5.74461 3.471 5.739Z" sodipodi:nodetypes="cccccccccccccccccccccccccc"/>
+</svg>
