@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [my own A.I. library](https://github.com/william64644/neural-network-framework)
 
-- 🌱 I’m currently learning **C++ && Blender**
+- 🌱 I’m currently learning **C++ && Python**
 
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
