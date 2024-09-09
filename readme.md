@@ -1,10 +1,4 @@
-<h3 align="center">Self-taught programming student in high school</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=william64644&label=Profile%20views&color=0e75b6&style=flat" alt="william64644" /> </p>
-
-- 🔭 I’m currently working on [my own A.I. library](https://github.com/william64644/neural-network-framework)
-
-- 🌱 I’m currently learning **C++ && Python**
 
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
