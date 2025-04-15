@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=william64644&label=Profile%20views&color=0e75b6&style=flat" alt="william64644" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamtorres64&label=Profile%20views&color=0e75b6&style=flat" alt="williamtorres64" /> </p>
 
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -23,12 +23,12 @@
 
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=william64644&show_icons=true&locale=en" alt="william64644" />
+    <img src="https://github-readme-stats.vercel.app/api?username=williamtorres64&show_icons=true&locale=en" alt="williamtorres64" />
 </p>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=william64644&show_icons=true&locale=en&layout=compact" alt="william64644" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=williamtorres64&show_icons=true&locale=en&layout=compact" alt="williamtorres64" />
 </p>
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=william64644&" alt="william64644" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=williamtorres64&" alt="williamtorres64" />
 </p>
 
