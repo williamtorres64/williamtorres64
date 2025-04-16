@@ -31,4 +31,4 @@
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=williamtorres64&" alt="williamtorres64" />
 </p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
