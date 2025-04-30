@@ -21,6 +21,11 @@
     </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,linux,html,css,js,figma,java,mysql,php,py,raspberrypi,docker" />
+  </a>
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=williamtorres64&theme=react&show_icons=true&hide_border=true&count_private=true" alt="williamtorres64's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamtorres64&theme=react&show_icons=true&hide_border=true&layout=compact" alt="williamtorres64's GitHub Stats" />
