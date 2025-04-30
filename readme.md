@@ -5,7 +5,7 @@
 </p>
 
 <div style="display:flex;">
-  <div style=""display:flex; align-content:center";>
+  <div style="display:flex; align-content:center";>
 <img src="https://github-readme-stats.vercel.app/api?username=williamtorres64&theme=react&show_icons=true&hide_border=true&count_private=true" alt="williamtorres64's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamtorres64&theme=react&show_icons=true&hide_border=true&layout=compact" alt="williamtorres64's GitHub Stats" />
   </div>
