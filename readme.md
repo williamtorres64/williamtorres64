@@ -13,6 +13,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=williamtorres64&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=williamtorres64&label=Profile%20views&color=0e75b6&style=flat" alt="williamtorres64" /> </p>
