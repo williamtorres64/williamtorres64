@@ -1,15 +1,33 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,arch,java,php,py,js,html,css,neovim,figma,mysql,docker,raspberrypi" />
-  </a>
-</p>
+<h2 align="center">Hi! 👋 My name is William and I'm a software developer, from Brazil</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamtorres64&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=williamtorres64&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=williamtorres64&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=williamtorres64&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=williamtorres64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="180" alt="languages graph"  />
+</div>
+
+<br><br>
+
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=debian,arch,java,php,py,js,html,css,neovim,figma,mysql,docker,raspberrypi" /> </a> </p>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/william-torres-araujo-520a02215/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato@williamtorres.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+<br clear="both">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/williamtorres64/williamtorres64/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/williamtorres64/williamtorres64/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/williamtorres64/williamtorres64/output/github-contribution-grid-snake.svg" width="100%" height="auto">
+</picture>
+
+###
